@@ -348,3 +348,4 @@
 ## 2020-02-01 23:16:46 - feat(docs): create docs handler (19/20)
 ## 2020-03-28 13:30:49 - feat(worker): add worker support (17/20)
 ## 2020-04-12 13:58:38 - feat(test): create test handler (12/20)
+## 2020-05-02 22:28:24 - feat(docs): implement docs module (11/20)
