@@ -122,3 +122,4 @@
 ## 2020-04-12 13:58:38 - feat(test): create test handler (12/20)
 ## 2020-05-02 22:28:24 - feat(docs): implement docs module (11/20)
 ## 2020-05-17 21:50:07 - feat(ui): add ui support (5/20)
+## 2020-06-20 20:26:13 - feat(model): create model handler (5/20)
