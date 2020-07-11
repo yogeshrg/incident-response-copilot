@@ -10,3 +10,4 @@
 ## 2020-05-17 21:50:07 - feat(ui): add ui support (5/20)
 ## 2020-06-20 20:26:13 - feat(model): create model handler (5/20)
 ## 2020-06-30 16:22:48 - feat(ci): create ci handler
+## 2020-07-11 09:32:27 - feat(alert): add alert support (4/20)
