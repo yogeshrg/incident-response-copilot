@@ -14,3 +14,4 @@
 ## 2020-07-12 11:22:41 - feat(deploy): implement deploy module (13/20)
 ## 2020-07-12 16:58:41 - feat(ci): add ci support (7/20)
 ## 2020-08-22 20:01:19 - feat(config): create config handler (2/20)
+## 2020-08-29 13:19:24 - feat(security): create security handler (18/20)
