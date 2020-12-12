@@ -245,3 +245,4 @@
 ## 2020-08-29 13:19:24 - feat(security): create security handler (18/20)
 ## 2020-10-25 18:16:58 - feat(queue): add queue support (17/20)
 ## 2020-12-03 20:11:43 - feat(db): add db endpoint
+## 2020-12-12 15:38:16 - feat(data): add data support (10/20)
