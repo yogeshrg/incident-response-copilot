@@ -19,3 +19,4 @@
 ## 2020-12-03 20:11:43 - feat(db): add db endpoint
 ## 2020-12-12 15:38:16 - feat(data): add data support (10/20)
 ## 2020-12-19 14:31:48 - feat(model): add model endpoint (18/20)
+## 2021-01-30 14:11:28 - feat(test): implement test module (20/20)
