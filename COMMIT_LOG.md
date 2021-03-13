@@ -21,3 +21,4 @@
 ## 2020-12-19 14:31:48 - feat(model): add model endpoint (18/20)
 ## 2021-01-30 14:11:28 - feat(test): implement test module (20/20)
 ## 2021-02-14 22:50:04 - feat(queue): implement queue module (10/20)
+## 2021-03-13 22:15:31 - feat(auth): add auth support (20/20)
