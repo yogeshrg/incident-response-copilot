@@ -25,3 +25,4 @@
 ## 2021-03-21 09:49:18 - feat(cache): implement cache feature (3/20)
 ## 2021-03-28 09:59:33 - feat(auth): create auth handler (11/20)
 ## 2021-04-03 23:54:30 - feat(log): add log endpoint (13/20)
+## 2021-04-04 18:43:07 - feat(metric): create metric handler (17/20)
