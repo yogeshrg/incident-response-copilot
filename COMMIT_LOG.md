@@ -369,3 +369,4 @@
 ## 2021-04-03 23:54:30 - feat(log): add log endpoint (13/20)
 ## 2021-04-04 18:43:07 - feat(metric): create metric handler (17/20)
 ## 2021-04-25 14:33:28 - feat(log): add log support (5/20)
+## 2021-06-12 12:00:51 - feat(monitor): create monitor handler (1/20)
