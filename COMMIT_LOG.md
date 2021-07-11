@@ -257,3 +257,4 @@
 ## 2021-04-25 14:33:28 - feat(log): add log support (5/20)
 ## 2021-06-12 12:00:51 - feat(monitor): create monitor handler (1/20)
 ## 2021-07-03 10:51:53 - feat(worker): add worker support (5/20)
+## 2021-07-11 13:54:01 - feat(test): add test endpoint (17/20)
