@@ -375,3 +375,4 @@
 ## 2021-07-11 16:18:01 - feat(config): implement config module (2/20)
 ## 2021-07-11 23:09:04 - feat(config): add config support (18/20)
 ## 2021-08-20 09:29:33 - feat(worker): add worker support
+## 2021-10-02 12:11:13 - feat(deploy): implement deploy module (18/20)
