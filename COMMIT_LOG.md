@@ -149,3 +149,4 @@
 ## 2021-08-20 09:29:33 - feat(worker): add worker support
 ## 2021-10-02 12:11:13 - feat(deploy): implement deploy module (18/20)
 ## 2021-10-03 21:17:33 - feat(build): create build handler (6/20)
+## 2021-10-13 19:24:34 - feat(core): create core handler
