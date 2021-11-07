@@ -150,3 +150,4 @@
 ## 2021-10-02 12:11:13 - feat(deploy): implement deploy module (18/20)
 ## 2021-10-03 21:17:33 - feat(build): create build handler (6/20)
 ## 2021-10-13 19:24:34 - feat(core): create core handler
+## 2021-11-07 18:49:03 - feat(db): add db endpoint (14/20)
