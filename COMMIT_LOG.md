@@ -40,3 +40,4 @@
 ## 2021-11-27 18:36:12 - feat(queue): add queue endpoint (15/20)
 ## 2021-12-21 19:22:33 - feat(data): add data endpoint
 ## 2022-04-08 11:15:45 - feat(ci): add ci endpoint
+## 2022-04-15 09:01:04 - feat(log): add log support
