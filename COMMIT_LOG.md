@@ -41,3 +41,4 @@
 ## 2021-12-21 19:22:33 - feat(data): add data endpoint
 ## 2022-04-08 11:15:45 - feat(ci): add ci endpoint
 ## 2022-04-15 09:01:04 - feat(log): add log support
+## 2022-04-16 13:13:17 - feat(cache): add cache endpoint (2/20)
