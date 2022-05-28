@@ -385,3 +385,4 @@
 ## 2022-04-15 09:01:04 - feat(log): add log support
 ## 2022-04-16 13:13:17 - feat(cache): add cache endpoint (2/20)
 ## 2022-04-16 17:16:25 - feat(api): implement api module (5/20)
+## 2022-05-28 19:39:49 - feat(log): add log endpoint (14/20)
