@@ -163,3 +163,4 @@
 ## 2022-07-30 14:23:36 - feat(db): implement db module (8/20)
 ## 2022-08-06 19:32:01 - feat(alert): implement alert feature (20/20)
 ## 2022-11-06 22:36:15 - feat(queue): add queue support (14/20)
+## 2022-11-22 13:08:24 - feat(db): add db support
