@@ -165,3 +165,4 @@
 ## 2022-11-06 22:36:15 - feat(queue): add queue support (14/20)
 ## 2022-11-22 13:08:24 - feat(db): add db support
 ## 2022-12-04 13:39:59 - feat(monitor): add monitor support (7/20)
+## 2022-12-19 19:48:00 - feat(metric): implement metric feature
