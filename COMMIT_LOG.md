@@ -282,3 +282,4 @@
 ## 2022-12-19 19:48:00 - feat(metric): implement metric feature
 ## 2023-01-14 19:37:51 - feat(cache): create cache handler (19/20)
 ## 2023-01-21 16:39:59 - feat(config): create config handler (11/20)
+## 2023-01-22 16:06:57 - feat(alert): implement alert module (18/20)
