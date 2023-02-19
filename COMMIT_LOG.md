@@ -284,3 +284,4 @@
 ## 2023-01-21 16:39:59 - feat(config): create config handler (11/20)
 ## 2023-01-22 16:06:57 - feat(alert): implement alert module (18/20)
 ## 2023-02-05 18:56:06 - feat(docs): implement docs feature (9/20)
+## 2023-02-19 22:59:07 - feat(security): add security endpoint (8/20)
