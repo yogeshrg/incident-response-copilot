@@ -286,3 +286,4 @@
 ## 2023-02-05 18:56:06 - feat(docs): implement docs feature (9/20)
 ## 2023-02-19 22:59:07 - feat(security): add security endpoint (8/20)
 ## 2023-03-12 16:46:50 - feat(monitor): implement monitor module (13/20)
+## 2023-03-12 22:25:07 - feat(metric): implement metric feature (20/20)
