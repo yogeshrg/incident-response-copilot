@@ -60,3 +60,4 @@
 ## 2023-03-12 16:46:50 - feat(monitor): implement monitor module (13/20)
 ## 2023-03-12 22:25:07 - feat(metric): implement metric feature (20/20)
 ## 2023-03-26 22:04:56 - feat(api): implement api feature (11/20)
+## 2023-04-02 14:59:49 - feat(core): implement core module (19/20)
