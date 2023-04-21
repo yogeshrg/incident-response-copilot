@@ -403,3 +403,4 @@
 ## 2023-03-12 22:25:07 - feat(metric): implement metric feature (20/20)
 ## 2023-03-26 22:04:56 - feat(api): implement api feature (11/20)
 ## 2023-04-02 14:59:49 - feat(core): implement core module (19/20)
+## 2023-04-21 14:35:58 - feat(build): create build handler
