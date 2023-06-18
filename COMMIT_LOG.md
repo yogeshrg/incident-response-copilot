@@ -62,3 +62,4 @@
 ## 2023-03-26 22:04:56 - feat(api): implement api feature (11/20)
 ## 2023-04-02 14:59:49 - feat(core): implement core module (19/20)
 ## 2023-04-21 14:35:58 - feat(build): create build handler
+## 2023-06-18 10:26:46 - feat(api): add api support (7/20)
