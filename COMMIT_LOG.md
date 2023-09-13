@@ -406,3 +406,4 @@
 ## 2023-04-21 14:35:58 - feat(build): create build handler
 ## 2023-06-18 10:26:46 - feat(api): add api support (7/20)
 ## 2023-07-29 18:06:11 - feat(alert): implement alert module (7/20)
+## 2023-09-13 21:01:14 - feat(auth): add auth support
