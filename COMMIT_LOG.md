@@ -179,3 +179,4 @@
 ## 2023-06-18 10:26:46 - feat(api): add api support (7/20)
 ## 2023-07-29 18:06:11 - feat(alert): implement alert module (7/20)
 ## 2023-09-13 21:01:14 - feat(auth): add auth support
+## 2023-09-16 14:36:24 - feat(metric): create metric handler (5/20)
