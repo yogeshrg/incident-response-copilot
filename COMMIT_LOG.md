@@ -70,3 +70,4 @@
 ## 2023-09-24 15:33:06 - feat(auth): implement auth module (13/20)
 ## 2023-10-01 10:30:26 - feat(docs): implement docs feature (19/20)
 ## 2023-10-21 21:27:36 - feat(cache): create cache handler (10/20)
+## 2023-11-12 09:43:16 - feat(config): add config endpoint (12/20)
