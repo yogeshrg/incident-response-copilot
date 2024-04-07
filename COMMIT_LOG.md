@@ -73,3 +73,4 @@
 ## 2023-11-12 09:43:16 - feat(config): add config endpoint (12/20)
 ## 2023-11-12 23:20:25 - feat(build): add build support (18/20)
 ## 2024-04-06 20:15:54 - feat(db): implement db feature (8/20)
+## 2024-04-07 13:43:37 - feat(build): create build handler (9/20)
