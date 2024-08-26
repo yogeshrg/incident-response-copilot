@@ -194,3 +194,4 @@
 ## 2024-06-02 14:19:11 - feat(test): implement test feature (9/20)
 ## 2024-06-15 23:58:49 - feat(log): implement log module (14/20)
 ## 2024-07-27 19:13:59 - feat(data): add data endpoint (1/20)
+## 2024-08-26 21:55:55 - feat(infra): create infra handler
