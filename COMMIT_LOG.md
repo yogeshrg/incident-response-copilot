@@ -81,3 +81,4 @@
 ## 2024-06-15 23:58:49 - feat(log): implement log module (14/20)
 ## 2024-07-27 19:13:59 - feat(data): add data endpoint (1/20)
 ## 2024-08-26 21:55:55 - feat(infra): create infra handler
+## 2024-10-17 13:42:56 - feat(config): add config support
