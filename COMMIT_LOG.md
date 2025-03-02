@@ -88,3 +88,4 @@
 ## 2025-02-08 10:03:10 - feat(test): create test handler (4/20)
 ## 2025-02-16 14:09:46 - feat(build): create build handler (2/20)
 ## 2025-02-16 17:29:12 - feat(ci): implement ci feature (8/20)
+## 2025-03-02 12:33:31 - feat(test): add test support (7/20)
